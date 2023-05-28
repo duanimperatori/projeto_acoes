@@ -1,0 +1,1 @@
+docker run --rm --name dw_acoes -p 5432:5432 -e POSTGRES_PASSWORD=dw -e POSTGRES_USER=dw -e PGDATA=/var/lib/postgresql/data/pgdata -v C:\Users\duani\OneDrive\Github\Projetos\projeto_acoes\data\dw:/var/lib/postgresql/data -d postgres

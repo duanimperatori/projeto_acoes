@@ -1,0 +1,3 @@
+docker build -t my_jupyter_image .
+
+docker run --rm -d -P --name devAcoes -p 8888:8888 -p 8080:8080 -e GRANT_SUDO=yes -e JUPYTER_ENABLE_LAB=yes -e PYTHONPATH=/usr/local/spark/python/lib/py4j-0.10.9-src.zip:/usr/local/spark/python -e PYSPARK_PYTHON=python3 -e WAREHOUSE_TYPE=jdbc -e WAREHOUSE_URI=jdbc:postgresql://172.17.0.3:5432/dw -e WAREHOUSE_DATABASE=dw -e WAREHOUSE_USER=dw -e WAREHOUSE_PASSWORD=dw -v C:/Users/duani/OneDrive/Github/Projetos/projeto_acoes/conf:/usr/local/spark/conf -v C:/Users/duani/OneDrive/Github/Projetos/projeto_acoes/data:/spark/home -v C:/Users/duani/OneDrive/Github/Projetos/projeto_acoes/notebook:/home/jovyan/work -v C:/Users/duani/OneDrive/Github/Projetos/projeto_acoes/driver/jdbc:/usr/local/etc/jdbc -d my_jupyter_image 
