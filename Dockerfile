@@ -12,5 +12,3 @@ VOLUME /spark/home
 VOLUME /home/jovyan/work
 
 EXPOSE 8888
-EXPOSE 8080
-
