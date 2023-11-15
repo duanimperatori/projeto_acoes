@@ -1,6 +1,10 @@
 import yfinance as yf
 import pandas as pd
-from lib import save_file_csv, read_file_csv
+
+
+with open(f'./notebook/lib.py', 'r') as script_file:
+        script_code = script_file.read()
+        exec(script_code)
 
 load_years = 15
 
@@ -8,6 +12,8 @@ stocks_df = read_file_csv(tier='extract', table='stock_list', separator=';')
 stock_list = list(stocks_df['TICKER'])
 
 def get_stock_price(tickers: list, base_year: str):
+    import pandas as pd
+    import yfinance as yf
 
     df = pd.DataFrame()
 

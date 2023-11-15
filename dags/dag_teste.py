@@ -7,9 +7,6 @@ def exec_notebook(pipeline):
         script_code = script_file.read()
         exec(script_code)
 
-def run_dim_ticker():  
-    exec_notebook('dim_ticker')
-
 
 default_args = {
     'owner': 'duanimperatori',
@@ -22,7 +19,8 @@ with DAG('dim_teste', default_args=default_args) as dag:
     
     run_test_task = PythonOperator(
         task_id='run_test_script',
-        python_callable=run_dim_ticker,
+        python_callable=exec_notebook,
+        op_kwargs={'pipeline': 'dim_ticker'},
         dag=dag
     )
 

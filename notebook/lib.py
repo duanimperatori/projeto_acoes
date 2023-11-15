@@ -1,7 +1,7 @@
 
 
 
-def get_root_path() -> str:
+def get_root_path():
     from pathlib import Path
     lib_path = Path().resolve()
     root = lib_path.as_posix()
@@ -9,12 +9,14 @@ def get_root_path() -> str:
 
 
 def save_file_csv(df, tier, table):
-    df.to_csv(f'{get_root_path()}/data/{tier}/{table}.csv', index=False)
+    #df.to_csv(f'{get_root_path()}/data/{tier}/{table}.csv', index=False)
+    df.to_csv(f'./data/{tier}/{table}.csv', index=False)
 
 
 def read_file_csv(tier, table, separator):
     import pandas as pd
-    df = pd.read_csv(f'{get_root_path()}/data/{tier}/{table}.csv', sep=separator, encoding='iso-8859-1')
+    #df = pd.read_csv(f'{get_root_path()}/data/{tier}/{table}.csv', sep=separator, encoding='iso-8859-1')
+    df = pd.read_csv(f'./data/{tier}/{table}.csv', sep=separator, encoding='iso-8859-1')
     return df
 
 
@@ -44,8 +46,8 @@ def get_cvm_financial_statement(fs_type: str, year: int):
 
     df = pd.read_csv(arquivo_zip.open(name=arquivo_csv), sep=';', encoding='ISO-8859-1')
 
-    arquivo_zip.close()
-    os.remove(arquivo_zip.filename)
+    # arquivo_zip.close()
+    # os.remove(arquivo_zip.filename)
 
     return df
 

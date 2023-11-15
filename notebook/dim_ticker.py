@@ -1,6 +1,9 @@
 import pandas as pd
-from lib import save_file_csv, read_file_csv
+from pathlib import Path
 
+with open(f'./notebook/lib.py', 'r') as script_file:
+        script_code = script_file.read()
+        exec(script_code)
 
 columns_names = {
     'CNPJ_CIA': 'cnpj',

@@ -1,7 +1,9 @@
 from datetime import date, timedelta
 import pandas as pd
-from lib import save_file_csv, read_file_csv, get_cvm_financial_statement
 
+with open(f'./notebook/lib.py', 'r') as script_file:
+        script_code = script_file.read()
+        exec(script_code)
 
 number_exercises = 5
 end_year = date.today().year

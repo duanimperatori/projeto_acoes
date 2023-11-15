@@ -1,7 +1,10 @@
 from datetime import date, timedelta
 import pandas as pd
-from lib import save_file_csv, read_file_csv, get_cvm_financial_statement
 
+
+with open(f'./notebook/lib.py', 'r') as script_file:
+        script_code = script_file.read()
+        exec(script_code)
 
 number_exercises = 5
 end_year = date.today().year
@@ -51,6 +54,8 @@ fact_income_statement['start_month'] = fact_income_statement['start_of_period'].
 fact_income_statement['end_month'] = fact_income_statement['end_of_period'].apply(lambda x: str(x)[5:7])
 fact_income_statement['period_type'] = fact_income_statement.apply(determine_period_type, axis=1)
 fact_income_statement['ticker'] = fact_income_statement['cnpj'].map(stock_dict)
-fact_income_statement = fact_income_statement.loc[(~fact_income_statement['ticker'].isnull()) & (fact_income_statement['period_type'] == 'Quarter')]
+fact_income_statement = \
+    fact_income_statement \
+        .loc[(~fact_income_statement['ticker'].isnull()) & (fact_income_statement['period_type'] == 'Quarter') & (fact_income_statement['order'] == 'ÚLTIMO')]
 
 save_file_csv(df=fact_income_statement, tier='gold', table='fact_income_statement')
