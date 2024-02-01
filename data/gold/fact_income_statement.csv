@@ -16849,6 +16849,40 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 01.838.723/0001-27,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.01.01,ON,-1.26042,N,Income Statement,04,06,Quarter,BRFS3
 01.838.723/0001-27,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,BRFS3
 01.838.723/0001-27,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,-1.26042,N,Income Statement,04,06,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,13806206.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-11324122.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,2482084.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-2029782.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-1869205.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-178739.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-24309.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,42188.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,0.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,283.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,452302.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-673675.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,358243.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01.01,Receitas Financeiras,358243.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01.02,Variações Monetárias e Cambiais,0.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-1031918.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02.01,Despesas Financeiras,-1028761.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02.02,Variações Monetárias e Cambiais,-3157.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,-221373.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-41014.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-64446.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,23432.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,-262387.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,-262387.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,-387014.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,124627.0,S,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,-0.24195,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,BRFS3
+01.838.723/0001-27,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,-0.24195,N,Income Statement,07,09,Quarter,BRFS3
 02.474.103/0001-19,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receita de Venda de Bens e/ou Serviços,2913748.0,S,Income Statement,01,03,Quarter,EGIE3
 02.474.103/0001-19,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-1232907.0,S,Income Statement,01,03,Quarter,EGIE3
 02.474.103/0001-19,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.02.01,Compras de energia,0.0,N,Income Statement,01,03,Quarter,EGIE3
@@ -17129,6 +17163,36 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 02.916.265/0001-60,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.01.01,ON,-0.12,N,Income Statement,04,06,Quarter,JBSS3
 02.916.265/0001-60,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,JBSS3
 02.916.265/0001-60,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,-0.12,N,Income Statement,04,06,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,91409464.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-80356865.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,11052599.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-8422426.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-5509930.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-2906942.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,87289.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,-112504.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,19661.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,2630173.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-1839138.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,602145.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-2441283.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,791035.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-100429.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-478625.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,378196.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,690606.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,690606.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,572651.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,117955.0,S,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,0.26,N,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,JBSS3
+02.916.265/0001-60,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,0.26,N,Income Statement,07,09,Quarter,JBSS3
 02.998.611/0001-04,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receita de Venda de Bens e/ou Serviços,1570821.0,S,Income Statement,01,03,Quarter,TRPL4
 02.998.611/0001-04,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.01,"Receita de infra, operação e manutenção, ganho de eficiência na implem da infra e outras, líquidas",783628.0,N,Income Statement,01,03,Quarter,TRPL4
 02.998.611/0001-04,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.02,"Remuneração dos ativos da concesão, líquida",787193.0,N,Income Statement,01,03,Quarter,TRPL4
@@ -17306,6 +17370,43 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 04.065.791/0001-99,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.01.01,ON,-0.039,N,Income Statement,04,06,Quarter,SQIA3
 04.065.791/0001-99,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,SQIA3
 04.065.791/0001-99,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,-0.039,N,Income Statement,04,06,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,172904.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-94338.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02.01,Custo dos Serviços prestados,-94338.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02.02,Custo de P&D,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,78566.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-77947.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-54944.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04.01,Resultado de Equivalência Patrimonial,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,-23003.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05.01,Publicidade e Propaganda,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05.02,Depreciação e Amortização,-23003.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05.03,Outras Despesas Operacionais,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,619.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-19094.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,6839.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-25933.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,-18475.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,769.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-4390.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,5159.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,-17706.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,-17706.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,-19984.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,2278.0,S,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,-0.236,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.02,PN,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,SQIA3
+04.065.791/0001-99,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,-0.236,N,Income Statement,07,09,Quarter,SQIA3
 07.526.557/0001-00,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receita de Venda de Bens e/ou Serviços,20531743.0,S,Income Statement,01,03,Quarter,ABEV3
 07.526.557/0001-00,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-10131684.0,S,Income Statement,01,03,Quarter,ABEV3
 07.526.557/0001-00,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.03,Resultado Bruto,10400059.0,S,Income Statement,01,03,Quarter,ABEV3
@@ -18468,6 +18569,38 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 33.042.730/0001-04,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.01.01,ON,0.13845,N,Income Statement,04,06,Quarter,CSNA3
 33.042.730/0001-04,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,CSNA3
 33.042.730/0001-04,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,0.13845,N,Income Statement,04,06,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,11125028.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-8319723.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,2805305.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-1157787.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-984689.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-190550.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,101539.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,-214858.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,130771.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,1647518.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-1223475.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,205490.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-1428965.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02.01,Variação Cambial Líquida de Instrumentos Financeiros,-50092.0,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02.02,Despesas Financeiras,-1378873.0,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,424043.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-333249.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-569846.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,236597.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,90794.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,90794.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,-154480.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,245274.0,S,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,-0.11649,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,CSNA3
+33.042.730/0001-04,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,-0.11649,N,Income Statement,07,09,Quarter,CSNA3
 33.376.989/0001-91,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receitas das Operações,1661699.0,S,Income Statement,01,03,Quarter,IRBR3
 33.376.989/0001-91,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.01,Operações de Seguros,0.0,S,Income Statement,01,03,Quarter,IRBR3
 33.376.989/0001-91,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.01.01,Prêmios de Seguros Ganhos,0.0,S,Income Statement,01,03,Quarter,IRBR3
@@ -19262,6 +19395,38 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 47.960.950/0001-21,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.01.01,ON,-0.045,N,Income Statement,04,06,Quarter,MGLU3
 47.960.950/0001-21,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,MGLU3
 47.960.950/0001-21,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,-0.045,N,Income Statement,04,06,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,8578818.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-5969408.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,2609410.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-1948221.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-1724566.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-668567.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02.01,Gerais e Administrativas,-358893.0,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02.02,Depreciação,-309674.0,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,-77469.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,516823.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,0.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,5558.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,661189.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-300604.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,345165.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-645769.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,360585.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-29356.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-18897.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,-10459.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,331229.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,331229.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,331229.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,0.0,S,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,0.05,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,MGLU3
+47.960.950/0001-21,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,0.049,N,Income Statement,07,09,Quarter,MGLU3
 60.746.948/0001-12,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receitas de Intermediação Financeira,57434165.0,S,Income Statement,01,03,Quarter,BBDC4
 60.746.948/0001-12,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.01,Receita de Juros e Similares,57821227.0,N,Income Statement,01,03,Quarter,BBDC4
 60.746.948/0001-12,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01.02,Ganhos / (Perdas) Líquidos de Operações de Câmbio,-371134.0,N,Income Statement,01,03,Quarter,BBDC4
@@ -19775,6 +19940,38 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 61.532.644/0001-15,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,ITSA4
 61.532.644/0001-15,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,0.37036,N,Income Statement,04,06,Quarter,ITSA4
 61.532.644/0001-15,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.02,PN,0.37036,N,Income Statement,04,06,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,1769000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-1238000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,531000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,3091000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-239000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-156000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,288000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,0.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,3198000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,3622000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,729000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,1368000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-639000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,4351000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-68000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,23000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,-91000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,4283000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,4283000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,4091000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,192000.0,S,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,0.42169,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.02,PN,0.42169,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,0.42169,N,Income Statement,07,09,Quarter,ITSA4
+61.532.644/0001-15,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.02,PN,0.42169,N,Income Statement,07,09,Quarter,ITSA4
 76.483.817/0001-20,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receita de Venda de Bens e/ou Serviços,5530666.0,S,Income Statement,01,03,Quarter,CPLE6
 76.483.817/0001-20,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-4102602.0,S,Income Statement,01,03,Quarter,CPLE6
 76.483.817/0001-20,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.03,Resultado Bruto,1428064.0,S,Income Statement,01,03,Quarter,CPLE6
@@ -20055,6 +20252,38 @@ cnpj,base_date,financial_statement_type,currency,scale,order,start_of_period,end
 84.683.374/0001-49,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,04,06,Quarter,TUPY3
 84.683.374/0001-49,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.01,ON,0.41296,N,Income Statement,04,06,Quarter,TUPY3
 84.683.374/0001-49,2023-06-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-04-01,2023-06-30,3.99.02.02,PN,0.0,N,Income Statement,04,06,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.01,Receita de Venda de Bens e/ou Serviços,2975942.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.02,Custo dos Bens e/ou Serviços Vendidos,-2453403.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.03,Resultado Bruto,522539.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04,Despesas/Receitas Operacionais,-260682.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.01,Despesas com Vendas,-131266.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.02,Despesas Gerais e Administrativas,-110304.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.04,Outras Receitas Operacionais,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.05,Outras Despesas Operacionais,-19112.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.04.06,Resultado de Equivalência Patrimonial,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,261857.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06,Resultado Financeiro,-47010.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.01,Receitas Financeiras,39765.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.06.02,Despesas Financeiras,-86775.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.07,Resultado Antes dos Tributos sobre o Lucro,214847.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-64768.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.01,Corrente,-63634.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.08.02,Diferido,-1134.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.09,Resultado Líquido das Operações Continuadas,150079.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10,Resultado Líquido de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11,Lucro/Prejuízo Consolidado do Período,150079.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.01,Atribuído a Sócios da Empresa Controladora,148849.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.11.02,Atribuído a Sócios Não Controladores,1230.0,S,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99,Lucro por Ação - (Reais / Ação),0.0,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01,Lucro Básico por Ação,0.0,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.01,ON,1.03316,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.01.02,PN,0.0,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02,Lucro Diluído por Ação,0.0,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.01,ON,1.02476,N,Income Statement,07,09,Quarter,TUPY3
+84.683.374/0001-49,2023-09-30,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-07-01,2023-09-30,3.99.02.02,PN,0.0,N,Income Statement,07,09,Quarter,TUPY3
 84.693.183/0001-68,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.01,Receita de Venda de Bens e/ou Serviços,490971.0,S,Income Statement,01,03,Quarter,SHUL4
 84.693.183/0001-68,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.02,Custo dos Bens e/ou Serviços Vendidos,-346733.0,S,Income Statement,01,03,Quarter,SHUL4
 84.693.183/0001-68,2023-03-31,DF Consolidado - Demonstração do Resultado,REAL,MIL,ÚLTIMO,2023-01-01,2023-03-31,3.03,Resultado Bruto,144238.0,S,Income Statement,01,03,Quarter,SHUL4
